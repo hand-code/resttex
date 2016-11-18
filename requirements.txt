@@ -1,0 +1,10 @@
+flask
+SQLAlchemy
+Jinja2
+flask-restful
+Flask-Migrate
+Flask-Script
+Flask-SQLAlchemy
+Flask-Testing
+Flask-WTF
+Jinja2
